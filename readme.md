@@ -16,6 +16,14 @@ What this tool is not intended for:
 
 ## Configuration
 
+### Setting up work environment
+- Clone this repo and then set up a virtual environment inside the repo folder by running `python3 -m venv .`
+- Activate the virtual environment with `source bin/activate`
+- Install the needed packages with `pip install -r requirements.txt`
+- Follow the rest of the configuration guide and run the mf with `python ytdl.py`
+
+You could of course install everything to system like ~~toaster toucher~~ an idiot would, but who am I to stop you?
+
 ### YT-DLP Specific 
 YT-DLP specific configs can be set in the `ytdl-config` file **except for the file output*. 
 See [YT-DLP Documentation](YT-DLP_Documentation) for more details on how to write your configs
