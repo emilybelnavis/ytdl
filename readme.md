@@ -26,7 +26,7 @@ You could of course install everything to system like ~~toaster toucher~~ an idi
 
 ### YT-DLP Specific 
 YT-DLP specific configs can be set in the `ytdl-config` file **except for the file output*. 
-See [YT-DLP Documentation](YT-DLP_Documentation) for more details on how to write your configs
+See [YT-DLP Documentation]((https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#configuration)) for more details on how to write your configs
 
 ### File location
 Set the root folder destination in `ytdl.py` under the variable `storage_location`.
@@ -53,6 +53,4 @@ Q: "Why didn't you do [anything else] instead of [what i did]" <br />
 A: I am lazy
 
 
-
-[YT-DLP_Documentation]: https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#configuration
 
